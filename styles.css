@@ -234,6 +234,10 @@ section {
     padding: 0;
   }
   
+  #home .title {
+    font-size: 3rem;
+  }
+
   #bannner,
   #banner img,
   #home .shape {
