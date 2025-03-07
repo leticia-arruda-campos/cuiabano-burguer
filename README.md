@@ -31,7 +31,7 @@
 
 Landing page interativa desenvolvida para a hamburgueria **Cuiabano Burguer**, trazendo um design moderno e dinâmico para apresentar os produtos e serviços de forma atrativa.
 
-Acessar Site Cuiabano Burguer **[Clique aqui]()**
+Acessar Site Cuiabano Burguer **[Clique aqui](https://leticia-arruda-campos.github.io/cuiabano-burguer/)**
 
 <br>
 
@@ -41,7 +41,7 @@ Acessar Site Cuiabano Burguer **[Clique aqui]()**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="80px" height="80px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="80px" height="80px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="80px" height="80px"/>
-  <img src=".github/scroll-reveal.jpg" width="200px" height="100px"/>
+  <img src=".github/scroll-reveal.jpeg" width="200px" height="100px"/>
 </div>  
  
 <br>
@@ -65,7 +65,7 @@ Acessar Site Cuiabano Burguer **[Clique aqui]()**
 
 ## 📷 Prévia do Projeto
 
-![Preview do projeto](.github/cuiabano-burguer-home.png)
+![Preview do projeto](.github/cuiabano-burguer-home.png.png)
 
 <br>
 
